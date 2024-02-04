@@ -6,9 +6,9 @@ IT Enthusiast with a focus on Hacking and Computer Networks
 
 I'm deeply passionate about all IT things, particularly hacking, computer networks, GNU/Linux, and the thrilling world of Bug Bounty programs and CTF challenges. My fascination with technology sparked early on and has since grown into a steadfast commitment. I take great pleasure in navigating the complexities of cybersecurity, consistently honing my skills to fortify digital landscapes. Beyond the technical realm, I place immense value on community and collaboration within IT. I'm eager to connect with fellow enthusiasts, exchange insights, and engage in meaningful discussions within the dynamic spheres of IT and cybersecurity.
 
-* 🌍  I'm based in Prague ![image](https://github.com/flasticky/flasticky/assets/158752644/5fe48cfd-de4a-46d6-975b-2c28c997b98b)
-* 🚀  I'm currently working on [Airbnb Bug Bounty Program](http://hackerone.com/airbnb?type=team)
-* 🧠  I'm learning to enhance Recon for Bug Bounty
+* 🌍  I'm based in Prague.
+* 🚀  I'm currently working on [Airbnb Bug Bounty Program](http://hackerone.com/airbnb?type=team).
+* 🧠  I'm learning to enhance Recon for Bug Bounty.
 * ⚡  Exploring IT learning avenues and open to collaborative ventures.
 
 ### Skills

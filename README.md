@@ -8,7 +8,7 @@ I'm deeply passionate about all IT things, particularly hacking, computer networ
 
 * 🌍  I'm based in Prague
 * 🚀  I'm currently working on [Airbnb Bug Bounty Program](http://hackerone.com/airbnb?type=team)
-* 🧠  I'm learning learning to enhance Recon for Bug Bounty
+* 🧠  I'm learning to enhance Recon for Bug Bounty
 * ⚡  Exploring IT learning avenues and open to collaborative ventures.
 
 ### Skills

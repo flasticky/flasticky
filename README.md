@@ -9,7 +9,7 @@ I'm deeply passionate about all IT things, particularly hacking, computer networ
 * 🌍  I'm based in Prague.
 * 💻  My [personal website](https://flaskjan.tech).
 * 🚀  I'm currently working on improving my skills in computer networking and cybersecurity.
-* 🧠  I'm learning to enhance my skills in IT.
+* 🧠  I'm learning to enhance my skills in cybersecurity.
 * ⚡  Exploring IT learning avenues and open to collaborative ventures.
 
 ### Skills
